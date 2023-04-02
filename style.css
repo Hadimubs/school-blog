@@ -1,0 +1,29 @@
+#contact iframe
+{
+    width: 100%;
+}
+.a{
+border:1px solid lightgreen;
+
+}
+.a img{
+width:100%;
+}
+.a h5,.a p{
+margin:20px;
+}
+.h{
+font-size: 20px;
+padding:6px 22px;
+border-radius:10px;
+margin-bottom:15px;
+}
+.h i{
+float:right;
+}
+.y span{
+color:red;
+}
+.q{
+margin-bottom:20px;
+}
